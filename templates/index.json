@@ -1,80 +1,113 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "hero-1": {
       "type": "hero",
       "settings": {
+        "image": "shopify:\/\/shop_images\/istockphoto-636887598-612x612.jpg",
+        "alignment": "center",
+        "hero_layout": "full_width",
         "hero_size": "large",
-        "text_size": "large"
-      }
-    },
-    "feature-row": {
-      "type": "feature-row",
-      "settings": {
+        "text_size": "large",
+        "title": "Fuel Your Fitness Journey with Us!",
+        "text": "",
+        "button_label": "",
+        "button_link": ""
       }
     },
     "feature-columns": {
       "type": "feature-columns",
-      "blocks": {
-        "feature-columns-0": {
-          "type": "text_block",
-          "settings": {
-          }
-        },
-        "feature-columns-1": {
-          "type": "text_block",
-          "settings": {
-          }
-        },
-        "feature-columns-2": {
-          "type": "text_block",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "feature-columns-0",
-        "feature-columns-1",
-        "feature-columns-2"
-      ],
       "settings": {
-        "title": ""
+        "title": "",
+        "align_text": "left"
       }
     },
     "collection": {
       "type": "collection",
       "settings": {
-        "grid": 4
+        "title": "Featured collection",
+        "collection": "",
+        "grid": 4,
+        "rows": 2,
+        "show_vendor": false,
+        "show_view_all": false
       }
     },
     "hero-2": {
       "type": "hero",
       "settings": {
-        "text_size": "large"
+        "image": "shopify:\/\/shop_images\/muscles-wallpaper-1920x1080.jpg",
+        "alignment": "center",
+        "hero_layout": "full_width",
+        "hero_size": "medium",
+        "text_size": "large",
+        "title": "Image with text overlay",
+        "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+        "button_label": "",
+        "button_link": ""
       }
     },
     "quotes": {
       "type": "quotes",
       "blocks": {
+        "quote_C3hrXB": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p><strong>⭐️⭐️⭐️⭐️⭐️ Amazing Quality and Fast Delivery!<\/strong><\/p><p>\"I ordered a set of resistance bands and a yoga mat from this store, and I couldn't be happier! The quality is top-notch, and the delivery was super quick. I appreciate the detailed descriptions and the great customer service. I'll definitely be back for more fitness gear!\"<\/p><p><strong>Alex J.<\/strong><\/p>",
+            "author": ""
+          }
+        },
         "quotes-0": {
           "type": "quote",
           "settings": {
+            "quote": "<p><strong>⭐️⭐️⭐️⭐️⭐️ Perfect Gear for My Home Workouts<\/strong><\/p><p>\"Bought a pair of dumbbells and a jump rope for my home workouts, and they're exactly what I needed. The prices are competitive, and the products feel durable and reliable. Plus, the website made it so easy to find what I was looking for. Highly recommend this store!\"<\/p><p><strong>Jamie L.<\/strong><\/p>",
+            "author": ""
+          }
+        },
+        "quote_zN3yqK": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p><strong>⭐️⭐️⭐️⭐️⭐️ Excellent Customer Service and Product Range<\/strong><\/p><p>\"I was looking for some new fitness attire and found the perfect set here. The leggings and sports bra I bought are incredibly comfortable and look great. I had a few questions about sizing, and the customer support team was very helpful. Will definitely shop here again!\"<\/p><ul><li><strong>Casey M.<\/strong><\/li><\/ul>",
+            "author": "Author's name"
           }
         },
         "quotes-1": {
           "type": "quote",
           "settings": {
+            "quote": "<p><strong>⭐️⭐️⭐️⭐️⭐️ Best Running Shoes Ever!<\/strong><\/p><p>\"I recently purchased a pair of running shoes from this store, and they're fantastic. The soles provide excellent support and cushioning, making my runs much more comfortable. The fit is perfect, and I love the stylish design. Highly recommend for any runner!\"<\/p><ul><li><strong>Taylor K.<\/strong><\/li><\/ul>",
+            "author": ""
           }
         },
-        "quotes-2": {
+        "quote_x6LEFR": {
           "type": "quote",
           "settings": {
+            "quote": "<p><strong>⭐️⭐️⭐️⭐️⭐️ High-Quality Gear and Excellent Shoes<\/strong><\/p><p>\"I bought a few items, including some cross-training shoes with amazing soles. The grip and support are just what I needed for my high-intensity workouts. The rest of the gear, like my new resistance bands and workout gloves, is also of great quality. Fast shipping and great prices!\"<\/p><ul><li><strong>Jordan P.<\/strong><\/li><\/ul>",
+            "author": ""
+          }
+        },
+        "quote_4aEqCf": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p><strong>⭐️⭐️⭐️⭐️⭐️ Comfortable Shoes with Great Support<\/strong><\/p><p>\"I was looking for new workout shoes and found the perfect pair here. The soles are cushioned and provide fantastic arch support, making my gym sessions much more comfortable. The shoes are also very breathable and fit true to size. I'll definitely be a repeat customer!\"<\/p><ul><li><strong>Morgan S.<\/strong><\/li><\/ul>",
+            "author": ""
           }
         }
       },
       "block_order": [
+        "quote_C3hrXB",
         "quotes-0",
+        "quote_zN3yqK",
         "quotes-1",
-        "quotes-2"
+        "quote_x6LEFR",
+        "quote_4aEqCf"
       ],
       "settings": {
         "title": ""
@@ -86,16 +119,28 @@
         "image-bar-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-2053695371-612x612.jpg",
+            "alignment": "center",
+            "link": "",
+            "cta_label": ""
           }
         },
         "image-bar-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-925425944-612x612.jpg",
+            "alignment": "center",
+            "link": "",
+            "cta_label": ""
           }
         },
         "image-bar-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-1372077120-612x612.jpg",
+            "alignment": "center",
+            "link": "",
+            "cta_label": ""
           }
         }
       },
@@ -105,12 +150,12 @@
         "image-bar-2"
       ],
       "settings": {
+        "section_height": "medium"
       }
     }
   },
   "order": [
     "hero-1",
-    "feature-row",
     "feature-columns",
     "collection",
     "hero-2",
