@@ -13,32 +13,9 @@
     "market": "us"
   },
   "sections": {
-    "feature-columns": {
-      "settings": {
-      },
-      "blocks": {
-        "text_block_LkHgJ": {
-          "type": "text_block",
-          "disabled": false,
-          "settings": {
-            "enable_image": true,
-            "image": null,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_LkHgJ"
-      ]
-    }
   },
   "order": [
     "hero-1",
-    "feature-columns",
-    "collection",
     "hero-2",
     "quotes",
     "image-bar"

@@ -23,24 +23,6 @@
         "button_link": ""
       }
     },
-    "feature-columns": {
-      "type": "feature-columns",
-      "settings": {
-        "title": "",
-        "align_text": "left"
-      }
-    },
-    "collection": {
-      "type": "collection",
-      "settings": {
-        "title": "Featured collection",
-        "collection": "",
-        "grid": 4,
-        "rows": 2,
-        "show_vendor": false,
-        "show_view_all": false
-      }
-    },
     "hero-2": {
       "type": "hero",
       "settings": {
@@ -156,8 +138,6 @@
   },
   "order": [
     "hero-1",
-    "feature-columns",
-    "collection",
     "hero-2",
     "quotes",
     "image-bar"
